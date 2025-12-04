@@ -1,0 +1,50 @@
+{
+  "document_type": "cooking_recipe",
+  "name": "Tarta de Santiago (St. James Cake)",
+  "prep_time_minutes": 20,
+  "cooking_time_minutes": 35,
+  "servings_units": 8,
+  "ingredients": [
+    {
+      "name": "Ground almonds",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Sugar",
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": "Large eggs",
+      "quantity": 5,
+      "unit": "units"
+    },
+    {
+      "name": "Lemon zest",
+      "quantity": 1,
+      "unit": "teaspoon"
+    },
+    {
+      "name": "Cinnamon powder",
+      "quantity": 0.5,
+      "unit": "teaspoon"
+    },
+    {
+      "name": "Icing sugar",
+      "quantity": "sufficient",
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    "Mix the almonds, sugar, cinnamon, and lemon zest in a large bowl.",
+    "Beat the eggs and incorporate them into the mixture until a homogeneous batter is obtained.",
+    "Pour the batter into a previously greased and floured mold.",
+    "Bake in a preheated oven at 180°C for 30-35 minutes.",
+    "Let cool. Dust with icing sugar using the Cross of Saint James as a stencil."
+  ],
+  "additional_information": {
+    "origin": "Galicia, Spain",
+    "allergens": ["tree nuts", "eggs"]
+  }
+}

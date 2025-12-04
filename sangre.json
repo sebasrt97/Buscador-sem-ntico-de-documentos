@@ -1,0 +1,39 @@
+{
+  "document_type": "blood_analysis",
+  "patient_id": "PT-456789",
+  "analysis_date": "2025-11-28",
+  "medical_center": "Vigo Central Hospital",
+  "hematology_results": [
+    {
+      "parameter": "Red blood cells",
+      "value": 4.8,
+      "unit": "million/µL",
+      "reference_range": "4.5 - 5.5",
+      "status": "Normal"
+    },
+    {
+      "parameter": "Hemoglobin",
+      "value": 15.2,
+      "unit": "g/dL",
+      "reference_range": "13.5 - 17.5",
+      "status": "Normal"
+    }
+  ],
+  "biochemistry_results": [
+    {
+      "parameter": "Fasting glucose",
+      "value": 115,
+      "unit": "mg/dL",
+      "reference_range": "70 - 100",
+      "status": "High"
+    },
+    {
+      "parameter": "Total cholesterol",
+      "value": 198,
+      "unit": "mg/dL",
+      "reference_range": "Less than 200",
+      "status": "Normal"
+    }
+  ],
+  "medical_notes": "Glucose is slightly elevated. Dietary control is recommended, and repeat the test in 3 months."
+}

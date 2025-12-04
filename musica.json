@@ -1,0 +1,31 @@
+{
+  "document_type": "musical_group",
+  "group_name": "Os Resentidos",
+  "main_genre": "Rock/Pop (Post-Punk)",
+  "origin": "Vigo, Galicia",
+  "active_years": "1984 - 1994, 2004 - Present",
+  "founding_members": [
+    "Antón Reixa",
+    "Alberto Torrado",
+    "Rubén Losada"
+  ],
+  "current_members": [
+    "Antón Reixa",
+    "Javier Soto",
+    "Pablo Novoa",
+    "Xabier Camba"
+  ],
+  "featured_discography": [
+    {
+      "album_name": "Vigo, capital Lisboa",
+      "year": 1984,
+      "key_tracks": ["Sector Naval", "Galicia Caníbal"]
+    },
+    {
+      "album_name": "Jei",
+      "year": 1990,
+      "key_tracks": ["Organizádevos", "Fai un sol de carallo"]
+    }
+  ],
+  "lyrics_language": ["Galician", "Spanish"]
+}
