@@ -23,3 +23,10 @@ Introduce tu pregunta en el campo "Tu Pregunta/Consulta".
 Haz clic en "Buscar Documento".
 
 El resultado mostrará el fragmento de texto más relevante encontrado, su archivo fuente y la puntuación de distancia.
+
+* Enviorement necesarios:
+
+```
+pip install gradio
+pip install chromadb
+```
