@@ -30,3 +30,17 @@ El resultado mostrará el fragmento de texto más relevante encontrado, su archi
 pip install gradio
 pip install chromadb
 ```
+
+## Docker
+
+Se creo el archivo requirements.txt donde iria gradio y chromadb
+
+Se creo DockerFile para la creacion de la imagen 
+
+Pasos: 
+
+docker build -t app .
+
+docker run -d -p 7860:7860 --name app(se asgina el nombre del contenedor) app 
+
+Tambien hubo que cambiar el script con "app.launch(server_name="0.0.0.0", server_port=7860)"
